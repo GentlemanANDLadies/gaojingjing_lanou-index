@@ -1,0 +1,23 @@
+{
+  "name": "9-9",
+  "version": "1.0.0",
+  "description": "lanou index",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gaojingjing",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.8.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.2.2",
+    "jshint": "^2.9.5",
+    "uglify": "^0.1.5"
+  },
+  "devDependencies": {
+    "gulp-jshint": "^2.0.4",
+    "gulp-uglify": "^3.0.0"
+  }
+}
